@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Hki4BhEK)
 # Assignment3-APLAB-Bhumika-E18199 
 # Attache screenshot for each solution
-1.[ Print linked list ]( https://www.geeksforgeeks.org/problems/print-linked-list-elements/0)<br>
+1.[ Print linked list ]( https://www.geeksforgeeks.org/problems/print-linked-list-elements/0) ![image](https://github.com/user-attachments/assets/f11e0659-5be8-4efc-bd56-34f218876d04)
+<br>
 83.[ Remove duplicates from a sorted list]( https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)<br>
 206.[ Reverse a linked list] (https://leetcode.com/problems/reverse-linked-list/)<br>
 2095.[ Delete middle node of a list]( https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)<br>
